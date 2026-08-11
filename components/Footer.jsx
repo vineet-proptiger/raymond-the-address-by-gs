@@ -27,13 +27,13 @@ const Footer = () => (
         </div>
         <p style={{ fontSize: '15px', color: '#fff', fontFamily: 'var(--font-poppins), sans-serif', lineHeight: 1.8, marginBottom: '24px', textAlign: 'justify' }}
           data-aos="fade-in" data-aos-delay="100">
-          Raymond Realty presents Raymond The Address By GS, Mumbai&apos;s premier luxury integrated township offering spacious 2 &amp; 3 BHK hillside apartments across a sprawling 145-acre development. Thoughtfully curated with an attractive 20:80 subvention payment plan structure, world-class lifestyle amenities including a 9-hole golf course and chlorine-free leisure pool, lively retail plaza, state-of-the-art office spaces, and expansive greenery — Raymond The Address By GS perfectly exemplifies modern township living for an unmatched lifestyle.
+          Raymond Realty presents Raymond The Address By GS, a premium development in Wadala offering spacious 2 &amp; 3 BHK luxury homes. Spread across 5.62 acres, the project features 31-storey luxury towers with European-inspired architecture and timeless Art Deco elegance. Residents can enjoy an iconic 45,000 sq ft clubhouse with futuristic architecture and over 50 curated lifestyle amenities across 2 acres of recreation. With excellent connectivity via Metro, Monorail, MTHL, and Eastern Freeway, Raymond The Address perfectly exemplifies elevated city living.
         </p>
         
         {/* RERA Block */}
         <div style={{ display: 'inline-block', background: 'rgba(255,255,255,0.05)', padding: '10px 24px', borderRadius: '4px', border: '1px solid rgba(255,255,255,0.1)' }}>
           <span style={{ fontFamily: F_SANS, fontSize: '14px', color: '#aaa' }}>RERA No :</span>
-          <strong style={{ fontFamily: F_JOST, fontSize: '15px', color: '#fff', letterSpacing: '0.04em' }}>PM1272022500305</strong>
+          <strong style={{ fontFamily: F_JOST, fontSize: '15px', color: '#fff', letterSpacing: '0.04em' }}>PR1170002501878</strong>
         </div>
       </div>
 
